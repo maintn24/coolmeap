@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coolmeap
+- 👋 Hi, I’m maintn24
 - 👀 I’m interested in game industry
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on making games
